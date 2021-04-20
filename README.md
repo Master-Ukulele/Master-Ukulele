@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋  welcome to my Github repository
 
 <!--
 **Master-Ukulele/Master-Ukulele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*I'm interested in anything interesting in computer science*
+
+*I only learn things in challenge*
+
+*I work as a software developer for fun*
+
+*I pretend as a retired ukulele master from Hawaii*
+
+<code><img src="https://www.hawaiigaga.com/Images/attractions/mahaulepu-b1.jpg"></code>
